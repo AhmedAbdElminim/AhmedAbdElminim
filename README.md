@@ -1,6 +1,6 @@
-- 👋 Hi, I’m AhmedAbdElminim
+- 👋 Hi, I’m Ahmed AbdelMoniem
 - 👀 I’m interested in Mobile Apps
-- 🌱 I’m currently learning flutter
+- 🌱 I’m currently flutter developer
 - 📫 How to reach me Gmail->ahmedabdelminim@gmai.com
 
 <!---
