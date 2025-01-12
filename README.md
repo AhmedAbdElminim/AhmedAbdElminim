@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmed AbdelMoniem</h1>
 <h3 align="center">A Passionate Software Engineer | Java Spring Developer</h3>
-<h3 align="center"><span style="color: #FF5733;">👨‍💻 Always learning, always coding, always improving 👨‍💻</span></h3>
+<h3 align="center">👨‍💻 Always learning, always coding, always improving 👨‍💻</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Building+Scalable+Web+Applications;Java+Spring+Enthusiast;Problem+Solver;Open-Source+Contributor" alt="Typing Animation" />
